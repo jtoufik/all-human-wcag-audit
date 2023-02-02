@@ -1,17 +1,12 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+## WCAG-audit Test - Buurtcampus
 
-# WCAG Audit 
+Ik heb een wcag-audit test gedaan op de website van mijn client.
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+![image](https://user-images.githubusercontent.com/112856590/216452124-e740d808-5699-44f4-9548-9649afb0ba4b.png)
 
-## Titel Website
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
 
 
 ## Licentie
